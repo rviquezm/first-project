@@ -1,0 +1,98 @@
+.navbar {
+    background-color:   rgba(33, 102, 192, 0.363);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.048); 
+    font-size: 1.2rem;
+}
+
+.navbar-brand {
+    margin-left: 150px;
+}
+
+body {
+    text-align: center;
+    font-size: 100%;
+/**especificar font size para usar rem**/
+}
+
+.row {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.hero {
+    background-color:  rgba(33, 102, 192, 0.363);
+}
+
+h1 {
+    margin-bottom: 2.3rem;
+}
+
+p {
+    margin-bottom: 1.925rem;
+    
+}
+
+/**
+.about p:last-child{
+    margin-bottom: 0%;
+}
+**/
+
+.about p {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.nutr3 {
+    margin-bottom: 1.625rem;
+}
+
+.team {
+    background-color: rgba(33, 102, 192, 0.363);
+}
+
+.team h1 {
+    padding-top: 2rem;
+}
+
+.team p:first-child {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.team .container .row {
+    padding: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    background-color: navy;
+    border-color: navy;
+    padding-left: 1.7rem;
+    padding-right: 1.7rem;
+}
+
+.card {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.portfolio p {
+    padding-left: 20%;
+    padding-right: 20%; 
+}
+.portfolio .card p {
+    padding-left: 0;
+    padding-right: 0; 
+}
+
+.portfolio .nav {
+    margin-bottom: 1.5rem;
+}
+
+.portfolio .nav-link .a {
+    border-color: black solid 3px;
+}
+
