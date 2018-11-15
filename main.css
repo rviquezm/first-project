@@ -1,7 +1,7 @@
 .navbar {
     background-color:   rgba(33, 102, 192, 0.363);
     border-bottom: 2px solid rgba(0, 0, 0, 0.048); 
-    font-size: 1.2rem;
+    font-size: 1.35rem;
 }
 
 .navbar-brand {
@@ -92,7 +92,20 @@ p {
     margin-bottom: 1.5rem;
 }
 
-.portfolio .nav-link .a {
-    border-color: black solid 3px;
+.portfolio .nav-item {
+    border: rgba(78, 77, 77, 0.541) 3px solid;
+    margin-left: 1rem;
+
 }
+
+.portfolio a {
+    color: rgb(80, 78, 78);
+}
+
+.portfolio a:hover {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.068);
+    border-radius: 0;  
+}
+
 
