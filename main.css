@@ -20,9 +20,20 @@ body {
 
 .row {
     padding-top: 3rem;
-    padding-bottom: 3rem;
 }
 
+.hero .row {
+    margin-bottom: 3rem;
+}
+
+.hero .carousel-item {
+    height: 35rem;
+    width: 70rem;
+}
+
+.hero .carousel {
+    align-content: center;
+}
 
 h1 {
     margin-bottom: 2.3rem;
@@ -40,6 +51,7 @@ p {
 **/
 .about {
     background-color: rgb(238,238,238);
+    padding-bottom: 1rem;
 }
 
 .about p {
