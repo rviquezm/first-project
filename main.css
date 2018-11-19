@@ -129,3 +129,20 @@ p {
     margin-bottom: 1.5rem; 
     border-color: transparent;     
 }
+
+.contact {
+    margin-bottom: 1.5rem;
+}
+
+.contact .form-group {
+    padding-left: 25%;
+    padding-right: 25%; 
+}
+
+.contact label {
+    align-content: left;
+}
+
+.footer {
+    background-color: rgb(238,238,238);
+}
